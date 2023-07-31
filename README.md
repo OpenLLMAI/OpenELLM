@@ -74,9 +74,7 @@
 
 ## chinese-llama2项目
 
-chinese-llama2项目为OpenNLP计划的第3个正式的开源项目，也是openllmai的第一个实践项目，本项目旨在基于 chinese-llama2 训练框架开发一个 SFT/RLHF 微调的中文版 LlaMA2 模型.
-
-本项目的姊妹项目为 [OpenLLaMA2 训练框架](https://github.com/openllmai/OpenLLaMA2)，旨在用 SFT/RLHF 微调中文 LLaMA2。
+chinese-llama2项目为OpenNLP计划的第3个正式的开源项目，也是openllmai的第一个实践项目，本项目旨在基于 [OpenLLaMA2 训练框架](https://github.com/openllmai/OpenLLaMA2) 训练框架开发一个 SFT/RLHF 微调的中文版 LlaMA2 模型.
 
 ### 2.开发计划与组织分工
 
@@ -87,10 +85,10 @@ chinese-llama2项目为OpenNLP计划的第3个正式的开源项目，也是open
 
 #### 2.2 组织分工
 
+- Datasets：阿樊提、Longhui等
 - Pretrain：
 - SFT：羡鱼、hope等
 - RLHF：初七等
-- Datasets：阿樊提、Longhui等
 
 ### 2.加入我们
 
