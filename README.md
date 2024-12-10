@@ -1,4 +1,4 @@
-# chinese-llama2
+# OpenELLM
 <div style="font-size: 1.5rem;">
   <a href="./README.md">中文</a> |
   <a href="./readme_en.md">English</a>
@@ -7,7 +7,7 @@
 
 </br>
 
-<h1 align="center">chinese-llama2</h1>
+<h1 align="center">OpenELLM</h1>
 <div align="center">
   <a href="https://github.com/catqaq/ChatPiXiu">
     <img src="./docs/imgs/pixiu.png" alt="Logo" height="210">
@@ -17,19 +17,19 @@
 
   <p align="center">
     <h3>Open LLaMA2 for everyone!</h3>
-      <a href="https://github.com/openllmai/chinese-llama2/graphs/contributors">
+      <a href="https://github.com/openllmai/OpenELLM/graphs/contributors">
         <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/catqaq/ChatPiXiu" />
       </a>
       <a href="https://github.com/catqaq/ChatPiXiu/issues">
         <img alt="Issues" src="https://img.shields.io/github/issues/catqaq/ChatPiXiu?color=0088ff" />
       </a>
-      <a href="https://github.com/openllmai/chinese-llama2/discussions">
-        <img alt="Issues" src="https://img.shields.io/github/discussions/openllmai/chinese-llama2?color=0088ff" />
+      <a href="https://github.com/openllmai/OpenELLM/discussions">
+        <img alt="Issues" src="https://img.shields.io/github/discussions/openllmai/OpenELLM?color=0088ff" />
       </a>
-      <a href="https://github.com/openllmai/chinese-llama2/pulls">
-        <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/openllmai/chinese-llama2?color=0088ff" />
-      <a href="https://github.com/openllmai/chinese-llama2/stargazers">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/openllmai/chinese-llama2?color=ccf" />
+      <a href="https://github.com/openllmai/OpenELLM/pulls">
+        <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/openllmai/OpenELLM?color=0088ff" />
+      <a href="https://github.com/openllmai/OpenELLM/stargazers">
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/openllmai/OpenELLM?color=ccf" />
       </a>
       <br/>
       <em>开源ChatGPT / 全面 / 轻量 / 易用 </em>
@@ -53,7 +53,7 @@
 
 - [💥最新讯息](#最新讯息)
 - [💫OpenNLP计划](#OpenNLP计划)
-- [💫chinese-llama2](#chinese-llama2项目)
+- [💫OpenELLM](#OpenELLM项目)
 - [⛏️使用步骤](#使用步骤)
 - [📄运行示例](#运行示例)
 - [📄结果展示](#结果展示)
@@ -68,13 +68,13 @@
 
 ## 最新讯息
 
-- 2023/07/30：chinese-llama2项目正式启动：
+- 2023/07/30：OpenELLM项目正式启动：
   - 初版代码提交
   - 成员分工
 
-## chinese-llama2项目
+## OpenELLM项目
 
-chinese-llama2项目属于OpenNLP计划的第3个正式的开源项目系列，本项目旨在基于 [OpenLLaMA2 训练框架](https://github.com/openllmai/OpenLLaMA2) 开发一个 SFT/RLHF 微调的中文版 LlaMA2 模型.
+OpenELLM项目属于OpenNLP计划的第3个正式的开源项目系列，本项目旨在基于 [OpenLLaMA2 训练框架](https://github.com/openllmai/OpenLLaMA2) 开发一个 SFT/RLHF 微调的中文版 LlaMA2 模型.
 
 ### 2.开发计划与组织分工
 
@@ -115,7 +115,7 @@ chinese-llama2项目属于OpenNLP计划的第3个正式的开源项目系列，�
 1.克隆本项目
 
 ```
-git clone https://github.com/OpenLLMAI/chinese-llama2.git
+git clone https://github.com/OpenLLMAI/OpenELLM.git
 ```
 
 2.准备数据
@@ -144,10 +144,10 @@ git clone https://github.com/OpenLLMAI/chinese-llama2.git
 
 ## Starchart
 
-[![Star History Chart](https://api.star-history.com/svg?repos=openllmai/chinese-llama2&type=Date)](https://star-history.com/#openllmai/chinese-llama2&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=openllmai/OpenELLM&type=Date)](https://star-history.com/#openllmai/OpenELLM&Date)
 
 ## Contributors
 
-<a href="https://github.com/openllmai/chinese-llama2/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=openllmai/chinese-llama2" />
+<a href="https://github.com/openllmai/OpenELLM/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=openllmai/OpenELLM" />
 </a>
