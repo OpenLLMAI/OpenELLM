@@ -16,7 +16,7 @@
 
 
   <p align="center">
-    <h3>Open LLaMA2 for everyone!</h3>
+    <h3>Open ELLM for everyone!</h3>
       <a href="https://github.com/openllmai/OpenELLM/graphs/contributors">
         <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/catqaq/ChatPiXiu" />
       </a>
